@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Peter. 
+### Hi 👋 I'm Peter
 
 I’m ex-marketer that ended up to be full stack developer
 
