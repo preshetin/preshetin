@@ -2,7 +2,7 @@
 
 I’m Marketer turned software engineer.
 
-- 💪 I’m super proud of [this](https://github.com/serverless/serverless/pull/7335) open source contribution. 
+- 💪 I’m super proud of this [open source](https://github.com/serverless/serverless/pull/7335) contribution. 
 - 👯 I’m looking to collaborate on early stage projects. Feel free to reach me with your badass idea.
 - 💬 Ask me about Slack API.
 - 📫 How to reach me: preshetin@gmail.com
