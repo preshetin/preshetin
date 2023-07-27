@@ -6,7 +6,7 @@ I’m Marketer turned software engineer.
 - 👯 I’m looking to collaborate on early stage projects. Feel free to reach me with your badass idea.
 - 💬 Ask me about Slack API.
 
-Apps I've built, check out demo GIFs in repo pages:
+Apps I've built (check out demo GIFs in repo pages)
 - Slack app /  Expense tracker for teams. Repo: [preshetin/drebedengi-slack](https://github.com/preshetin/drebedengi-slack)
 - Slack app / Automated reporting app for monthly  internal reports. Repo: [ru-dhamma/donation-utils](https://github.com/ru-dhamma/donation-utils)
 - Airtable extension /  Meal and purchasing planner for multi-day events. Repo: [preshetin/menu-constructor](https://github.com/preshetin/menu-constructor)
