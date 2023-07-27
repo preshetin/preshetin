@@ -1,6 +1,6 @@
-### Hi 👋 I’m Peter.
+### Hi 👋 I’m Peter. 
 
-I’m ex-marketer that ended up to be full stack developer.
+I’m Marketer turned software engineer.
 
 - 💪 I’m super proud of [this](https://github.com/serverless/serverless/pull/7335) open source contribution. 
 - 👯 I’m looking to collaborate on early stage projects. Feel free to reach me with your badass idea.
